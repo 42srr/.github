@@ -9,9 +9,9 @@
 - FE 2명 ~ 5명
   - W_CSS : 송화현hwasong (일당 2~3시간)
     - 1주일 진행상황 보고 추후에 인원 추가 논의 -> 공고 작성중
-  - W_Data Handling :
+  - W_Data Handling : 송유태yutsong
   - W_API : 김이 kim2(당분간 시험기간)
-  - A_CSS : junmin
+  - A_Swift : junmin
   - A_Data Handling : 도현 형님dohyki2
   - A_API : 도현 형님dohyki2
 - B 2명 ~ 4명 전준완joojeon, 조재영jajo (2~3일)
